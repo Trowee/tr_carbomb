@@ -1,6 +1,9 @@
-# tr_carbomb
+# TR_CARBOMB
 
 The `tr_carbomb` script allows players to plant and remove bombs on vehicles in a FiveM server. The bombs can be set to detonate under various conditions such as when a player enters the vehicle, starts the engine, or reaches a specified speed.
+
+## Preview
+https://streamable.com/pt35k9
 
 ## Features
 
