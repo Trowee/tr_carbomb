@@ -4,7 +4,7 @@ The `tr_carbomb` script allows players to plant and remove bombs on vehicles in 
 
 ## Preview
 https://streamable.com/pt35k9
-If you have any suggestions/ideas you can contact me on discord: _trowe_
+If you have any suggestions/ideas you can contact me on discord: _.trowe
 
 ## Features
 
