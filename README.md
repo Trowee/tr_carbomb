@@ -60,22 +60,6 @@ Config.PlantDuration = 5000
 
 - PlantDuration: The time it takes to plant a bomb (in milliseconds).
 
-## How to use
-
-1.Interaction: Approach a vehicle and use the interaction key to plant a bomb.
-2.Skill Check: Successfully complete a skill check to proceed with planting the bomb.
-3.Bomb Type Selection: Choose from the following bomb types:
-    - Enter Bomb: Explodes when someone enters the vehicle.
-    - Engine Bomb: Explodes when the engine is started.
-    - Speed Bomb: Explodes when the vehicle reaches a specific speed.
-Completion: After planting, the bomb will be armed and ready to detonate under the specified conditions.
-
-## Removing a Bomb
-
-    - Interaction: Approach a vehicle with a bomb and use the interaction key to attempt removal.
-    - Skill Check: Successfully complete a skill check to safely remove the bomb.
-    - Failure: If the skill check fails, the bomb will explode.
-
 ## Exploding Conditions
 
     - Enter Bomb: Detonates when a player enters the vehicle.
@@ -86,4 +70,4 @@ Completion: After planting, the bomb will be armed and ready to detonate under t
 
     - Framework: Compatible with both ESX and QB-Core frameworks.
     - Inventory: Compatible with ox_inventory and qb-inventory.
-    - ox_lib: This script uses ox_lib for skill checks and progress circles.
+    - ox_lib
