@@ -44,21 +44,6 @@ Config.InteractionDistance = 2.0
 -- Bomb planting duration (in ms)
 Config.PlantDuration = 5000
 ```
-## Configuration Options
-
-- Framework: Choose between 'esx' and 'qb' frameworks.
-
-- Inventory: Choose the inventory system ('ox' for ox_inventory or 'qb' for qb-inventory).
-
-- BombItem: The item required to plant a bomb (car_bomb by default).
-
-- RemoverItem: The item required to remove a bomb (car_bomb_remover by default).
-
-- SpeedUnit: Set the speed unit to either 'kmh' or 'mph'.
-
-- InteractionDistance: The distance within which players can interact with vehicles to plant or remove bombs.
-
-- PlantDuration: The time it takes to plant a bomb (in milliseconds).
 
 ## Exploding Conditions
 
